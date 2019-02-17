@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Gradle : android-driver-service-gradle : driver.war">
+    <output-path>$PROJECT_DIR$/android-driver-service/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$/android-driver-service" />
+    </properties>
+    <root id="archive" name="driver.war">
+      <element id="artifact" artifact-name="Gradle : android-driver-service-gradle : driver.war (exploded)" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Middleware:test" external.linked.project.path="$MODULE_DIR$/../../Middleware" external.root.project.path="$MODULE_DIR$/../../Middleware" external.system.id="GRADLE" external.system.module.group="Middleware" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_10">
+    <output-test url="file://$MODULE_DIR$/../../Middleware/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../Middleware/src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Middleware.Middleware.main" />
+    <orderEntry type="library" name="Gradle: com.rabbitmq:amqp-client:5.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.25" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Middleware.Middleware.main" />
+</module>
